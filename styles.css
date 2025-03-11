@@ -167,7 +167,7 @@ nav {
   }
 
   .menu-item:hover {
-    transform: rotate(15deg) scale(1.1);
+    transform: rotate(0) scale(1.1);
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
     z-index: 1;
   }
